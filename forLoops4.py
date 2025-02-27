@@ -15,3 +15,4 @@ flattend = []
 flattend = [num for row in matrix for num in row]
 
 print(flattend)
+print("test")
